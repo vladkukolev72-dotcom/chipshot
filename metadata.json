@@ -1,0 +1,8 @@
+{
+  "name": "SoccerPool",
+  "description": "An exciting tactical soccer pool game with campaign, tournament, and multiplayer modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

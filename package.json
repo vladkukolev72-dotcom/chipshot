@@ -1,0 +1,17 @@
+{
+  "name": "soccer-pool",
+  "version": "1.0.0",
+  "description": "SoccerPool web applet",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'No compilation needed for static files'",
+    "start": "node server.js",
+    "lint": "echo 'No linting required'"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.8.3"
+  }
+}
